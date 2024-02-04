@@ -19,6 +19,7 @@
 		8E3C84092B6E6D9B0031FB29 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C84082B6E6D9B0031FB29 /* WebView.swift */; };
 		8E3C840B2B6E6DF60031FB29 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C840A2B6E6DF60031FB29 /* Constants.swift */; };
 		8E3C84132B6EBF820031FB29 /* TheNewsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C84122B6EBF820031FB29 /* TheNewsTests.swift */; };
+		8E3C84542B6FA38D0031FB29 /* NewsDataMock.json in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C84532B6FA38D0031FB29 /* NewsDataMock.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		8E3C840A2B6E6DF60031FB29 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		8E3C84102B6EBF820031FB29 /* TheNewsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheNewsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E3C84122B6EBF820031FB29 /* TheNewsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNewsTests.swift; sourceTree = "<group>"; };
+		8E3C84532B6FA38D0031FB29 /* NewsDataMock.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = NewsDataMock.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 		8E3C83FA2B6E3EEC0031FB29 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				8E3C84532B6FA38D0031FB29 /* NewsDataMock.json */,
 				8E3C840A2B6E6DF60031FB29 /* Constants.swift */,
 				8E3C84082B6E6D9B0031FB29 /* WebView.swift */,
 			);
@@ -236,6 +239,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8E3C84542B6FA38D0031FB29 /* NewsDataMock.json in Resources */,
 				8E3C83F12B6E3D770031FB29 /* Preview Assets.xcassets in Resources */,
 				8E3C83EE2B6E3D770031FB29 /* Assets.xcassets in Resources */,
 			);

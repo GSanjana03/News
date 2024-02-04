@@ -7,17 +7,64 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2E0BFD16-195E-4C76-A78E-949BAC1680FF"
-            shouldBeEnabled = "Yes"
+            uuid = "40D16B1D-E63C-4A4E-BF1A-9D71F146ED7B"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "TheNews/View/NewsView.swift"
+            filePath = "TheNewsTests/TheNewsTests.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "body"
-            landmarkType = "24">
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "testFetchNewsArticles()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "40D16B1D-E63C-4A4E-BF1A-9D71F146ED7B - 372955b0d2b1feb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheNewsTests.TheNewsTests.testFetchNewsArticles() -&gt; ()"
+                  moduleName = "TheNewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjanababhulgaonkar/Documents/SWIFT_UI/TheNews/TheNewsTests/TheNewsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+               <Location
+                  uuid = "40D16B1D-E63C-4A4E-BF1A-9D71F146ED7B - 372955b0d2b1feb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheNewsTests.TheNewsTests.testFetchNewsArticles() -&gt; ()"
+                  moduleName = "TheNewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjanababhulgaonkar/Documents/SWIFT_UI/TheNews/TheNewsTests/TheNewsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "40D16B1D-E63C-4A4E-BF1A-9D71F146ED7B - 372955b0d2b1ffc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TheNewsTests.TheNewsTests.testFetchNewsArticles() -&gt; ()"
+                  moduleName = "TheNewsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sanjanababhulgaonkar/Documents/SWIFT_UI/TheNews/TheNewsTests/TheNewsTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

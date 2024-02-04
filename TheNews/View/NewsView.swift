@@ -10,34 +10,39 @@ import SwiftUI
 
 struct NewsView: View {
     @ObservedObject private var newsViewModel: NewsViewModel = NewsViewModel()
-   // @State private var search: String = ""
 
     private var stories: [Story]? {
-       /* if search.isEmpty && newsViewModel.lastStories != nil {
-            return newsViewModel.lastStories
-        } else {
-            newsViewModel.fetchMatchStories(for: search)
-            return newsViewModel.matchStories
-        }*/
-        return newsViewModel.lastStories
+        return newsViewModel.latestStories
     }
 
     var body: some View {
         NavigationView {
-            if stories != nil {
-                List(stories!) { story in
-                    if story.url != nil {
-                        NavigationLink(destination: NewsDetailView(story.url)) {
-                            NewsItem(story: story)
+           
+            ZStack {
+                Color.white.ignoresSafeArea()
+                
+                if stories != nil {
+                    List(stories ?? []) { story in
+                        if story.url != nil {
+                            NavigationLink(destination: NewsDetailView(story.url)) {
+                                NewsItem(story: story)
+                            }
                         }
-                    }
-                }.navigationTitle(Constants.appName)
-                .refreshable {
-                    newsViewModel.fetchStories()
+                    }.navigationTitle(Constants.appName)
+                        .refreshable {
+                            newsViewModel.fetchStories()
+                        }
                 }
-            } else {
-                Text(Constants.loadingError)
-                    .navigationTitle(Constants.appName)
+                if newsViewModel.isError {
+                    Text(Constants.loadingError)
+                        .navigationTitle(Constants.appName)
+                }
+                
+                if newsViewModel.showLoader {
+                    ProgressView()
+                        .scaleEffect(2.0, anchor: .center)
+                        .progressViewStyle(CircularProgressViewStyle.init(tint: Color.gray))
+                }
             }
         }
         .onAppear {

@@ -20,8 +20,10 @@ struct NewsItem: View {
                 Spacer()
                 HStack {
                     Text("Author: \(story.author)")
+                        .foregroundColor(.gray)
                 }
                 .font(.subheadline)
+                Spacer()
             }
         }
     }

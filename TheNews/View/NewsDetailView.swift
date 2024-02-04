@@ -23,9 +23,5 @@ struct NewsDetailView: View {
 struct NewsDetailView_Previews: PreviewProvider {
     static var previews: some View {
         NewsDetailView("https://www.google.com")
-            .preferredColorScheme(.dark)
-
-        NewsDetailView("https://www.google.com")
-            .preferredColorScheme(.light)
     }
 }

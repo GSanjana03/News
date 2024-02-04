@@ -1,0 +1,732 @@
+{
+  "exhaustive": {
+    "nbHits": false,
+    "typo": true
+  },
+  "exhaustiveNbHits": false,
+  "exhaustiveTypo": true,
+  "hits": [
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "tomerbd"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Agile as a Micromanagement Tool"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://muromuro.substack.com/p/agile-as-a-micromanagement-tool"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_tomerbd",
+        "story_39247996"
+      ],
+      "author": "tomerbd",
+      "created_at": "2024-02-04T06:02:30Z",
+      "created_at_i": 1707026550,
+      "num_comments": 0,
+      "objectID": "39247996",
+      "points": 1,
+      "story_id": 39247996,
+      "title": "Agile as a Micromanagement Tool",
+      "updated_at": "2024-02-04T06:03:05Z",
+      "url": "https://muromuro.substack.com/p/agile-as-a-micromanagement-tool"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "joebush_wahaha"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Web3Password: A Password Manager Based on Blockchain"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.web3password.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_joebush_wahaha",
+        "story_39247958"
+      ],
+      "author": "joebush_wahaha",
+      "children": [
+        39247959
+      ],
+      "created_at": "2024-02-04T05:52:08Z",
+      "created_at_i": 1707025928,
+      "num_comments": 2,
+      "objectID": "39247958",
+      "points": 1,
+      "story_id": 39247958,
+      "title": "Web3Password: A Password Manager Based on Blockchain",
+      "updated_at": "2024-02-04T05:57:35Z",
+      "url": "https://www.web3password.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thunderbong"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "AI lobbying spikes 185% as calls for regulation surge"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thunderbong",
+        "story_39247952"
+      ],
+      "author": "thunderbong",
+      "created_at": "2024-02-04T05:50:51Z",
+      "created_at_i": 1707025851,
+      "num_comments": 0,
+      "objectID": "39247952",
+      "points": 1,
+      "story_id": 39247952,
+      "title": "AI lobbying spikes 185% as calls for regulation surge",
+      "updated_at": "2024-02-04T05:52:20Z",
+      "url": "https://www.cnbc.com/2024/02/02/ai-lobbying-spikes-nearly-200percent-as-calls-for-regulation-surge.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "hacksoi"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Show HN: I Invented a New Machine Learning Algorithm"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://medium.com/@sohackinp/i-invented-a-new-machine-learning-algorithm-b4ef4815a117"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_hacksoi",
+        "story_39247947",
+        "show_hn"
+      ],
+      "author": "hacksoi",
+      "created_at": "2024-02-04T05:50:16Z",
+      "created_at_i": 1707025816,
+      "num_comments": 0,
+      "objectID": "39247947",
+      "points": 1,
+      "story_id": 39247947,
+      "title": "Show HN: I Invented a New Machine Learning Algorithm",
+      "updated_at": "2024-02-04T05:52:20Z",
+      "url": "https://medium.com/@sohackinp/i-invented-a-new-machine-learning-algorithm-b4ef4815a117"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "thunderbong"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "The Three Types of Time"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://david-gilbertson.medium.com/the-three-types-of-time-dd67abc8e59d"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_thunderbong",
+        "story_39247936"
+      ],
+      "author": "thunderbong",
+      "created_at": "2024-02-04T05:47:02Z",
+      "created_at_i": 1707025622,
+      "num_comments": 0,
+      "objectID": "39247936",
+      "points": 1,
+      "story_id": 39247936,
+      "title": "The Three Types of Time",
+      "updated_at": "2024-02-04T05:52:20Z",
+      "url": "https://david-gilbertson.medium.com/the-three-types-of-time-dd67abc8e59d"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "anji-kanji"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Vision Pro is missing one crucial feature, and that is"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://old.reddit.com/r/apple/comments/1aigld2/vision_pro_is_missing_one_crucial_feature_and/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_anji-kanji",
+        "story_39247931"
+      ],
+      "author": "anji-kanji",
+      "children": [
+        39247932
+      ],
+      "created_at": "2024-02-04T05:46:00Z",
+      "created_at_i": 1707025560,
+      "num_comments": 1,
+      "objectID": "39247931",
+      "points": 1,
+      "story_id": 39247931,
+      "title": "Vision Pro is missing one crucial feature, and that is",
+      "updated_at": "2024-02-04T05:47:05Z",
+      "url": "https://old.reddit.com/r/apple/comments/1aigld2/vision_pro_is_missing_one_crucial_feature_and/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "hubraumhugo"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Digital-Savvy Sweden Bans Screens in Schools"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://worldcrunch.com/culture-society/sweden-digital-education"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_hubraumhugo",
+        "story_39247928"
+      ],
+      "author": "hubraumhugo",
+      "created_at": "2024-02-04T05:45:39Z",
+      "created_at_i": 1707025539,
+      "num_comments": 0,
+      "objectID": "39247928",
+      "points": 1,
+      "story_id": 39247928,
+      "title": "Digital-Savvy Sweden Bans Screens in Schools",
+      "updated_at": "2024-02-04T05:47:05Z",
+      "url": "https://worldcrunch.com/culture-society/sweden-digital-education"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "danboarder"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Jetson One – first affordable EVTOL on the market, no pilot's license required"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://jetson.com/jetson-one"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_danboarder",
+        "story_39247924"
+      ],
+      "author": "danboarder",
+      "created_at": "2024-02-04T05:45:14Z",
+      "created_at_i": 1707025514,
+      "num_comments": 0,
+      "objectID": "39247924",
+      "points": 1,
+      "story_id": 39247924,
+      "title": "Jetson One – first affordable EVTOL on the market, no pilot's license required",
+      "updated_at": "2024-02-04T05:47:05Z",
+      "url": "https://jetson.com/jetson-one"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "drcwpl"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Analogy as the Core of Cognition – Doug Hofstadter [video]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=n8m7lFQ3njk"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_drcwpl",
+        "story_39247917"
+      ],
+      "author": "drcwpl",
+      "created_at": "2024-02-04T05:43:39Z",
+      "created_at_i": 1707025419,
+      "num_comments": 0,
+      "objectID": "39247917",
+      "points": 2,
+      "story_id": 39247917,
+      "title": "Analogy as the Core of Cognition – Doug Hofstadter [video]",
+      "updated_at": "2024-02-04T06:06:20Z",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "matt_d"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Discussing \"Isabelle/HOL: A Proof Assistant for Higher-Order Logic\""
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://blogs.fediscience.org/the-updated-scholar/2024/02/04/discussing-isabelle-hol-a-proof-assistant-for-higher-order-logic/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_matt_d",
+        "story_39247916"
+      ],
+      "author": "matt_d",
+      "created_at": "2024-02-04T05:43:35Z",
+      "created_at_i": 1707025415,
+      "num_comments": 0,
+      "objectID": "39247916",
+      "points": 1,
+      "story_id": 39247916,
+      "title": "Discussing \"Isabelle/HOL: A Proof Assistant for Higher-Order Logic\"",
+      "updated_at": "2024-02-04T05:47:05Z",
+      "url": "https://blogs.fediscience.org/the-updated-scholar/2024/02/04/discussing-isabelle-hol-a-proof-assistant-for-higher-order-logic/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "ganeshsridharan"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Ask Valluvar. Answers important life questions based on Thirukural corpus"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.askvalluvar.com"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_ganeshsridharan",
+        "story_39247900"
+      ],
+      "author": "ganeshsridharan",
+      "children": [
+        39247901
+      ],
+      "created_at": "2024-02-04T05:40:40Z",
+      "created_at_i": 1707025240,
+      "num_comments": 1,
+      "objectID": "39247900",
+      "points": 1,
+      "story_id": 39247900,
+      "title": "Ask Valluvar. Answers important life questions based on Thirukural corpus",
+      "updated_at": "2024-02-04T05:41:50Z",
+      "url": "https://www.askvalluvar.com"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mudil"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Is the $139 Amazon Prime Subscription Still Worth It?"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mudil",
+        "story_39247897"
+      ],
+      "author": "mudil",
+      "children": [
+        39247998,
+        39247988
+      ],
+      "created_at": "2024-02-04T05:40:09Z",
+      "created_at_i": 1707025209,
+      "num_comments": 2,
+      "objectID": "39247897",
+      "points": 5,
+      "story_id": 39247897,
+      "title": "Is the $139 Amazon Prime Subscription Still Worth It?",
+      "updated_at": "2024-02-04T06:07:50Z",
+      "url": "https://www.wsj.com/tech/personal-tech/is-the-139-amazon-prime-subscription-still-worth-it-83a597c7"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "stuartcw"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Colliding glass spheres emit triboluminescence"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=01cKJB2HOjc"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_stuartcw",
+        "story_39247864"
+      ],
+      "author": "stuartcw",
+      "children": [
+        39247865
+      ],
+      "created_at": "2024-02-04T05:32:36Z",
+      "created_at_i": 1707024756,
+      "num_comments": 1,
+      "objectID": "39247864",
+      "points": 1,
+      "story_id": 39247864,
+      "title": "Colliding glass spheres emit triboluminescence",
+      "updated_at": "2024-02-04T05:36:35Z",
+      "url": "https://www.youtube.com/watch?v=01cKJB2HOjc"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "mynameisnoone"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "A laser-guided bomb destroyed a helicopter in combat"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://en.wikipedia.org/wiki/GBU-10_Paveway_II"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_mynameisnoone",
+        "story_39247837"
+      ],
+      "author": "mynameisnoone",
+      "created_at": "2024-02-04T05:25:33Z",
+      "created_at_i": 1707024333,
+      "num_comments": 0,
+      "objectID": "39247837",
+      "points": 1,
+      "story_id": 39247837,
+      "title": "A laser-guided bomb destroyed a helicopter in combat",
+      "updated_at": "2024-02-04T05:26:35Z",
+      "url": "https://en.wikipedia.org/wiki/GBU-10_Paveway_II"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "danboarder"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Looking Glass Go portable holographic display to view your 3D spatial photos"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.t3.com/news/looking-glass-go-is-a-portable-holographic-display-you-can-view-3d-spatial-photos-on"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_danboarder",
+        "story_39247827"
+      ],
+      "author": "danboarder",
+      "created_at": "2024-02-04T05:21:48Z",
+      "created_at_i": 1707024108,
+      "num_comments": 0,
+      "objectID": "39247827",
+      "points": 1,
+      "story_id": 39247827,
+      "title": "Looking Glass Go portable holographic display to view your 3D spatial photos",
+      "updated_at": "2024-02-04T05:26:05Z",
+      "url": "https://www.t3.com/news/looking-glass-go-is-a-portable-holographic-display-you-can-view-3d-spatial-photos-on"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "lovestaco"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Learn Difficult Concepts with the Adept Method"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://betterexplained.com/articles/adept-method/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_lovestaco",
+        "story_39247793"
+      ],
+      "author": "lovestaco",
+      "created_at": "2024-02-04T05:10:59Z",
+      "created_at_i": 1707023459,
+      "num_comments": 0,
+      "objectID": "39247793",
+      "points": 3,
+      "story_id": 39247793,
+      "title": "Learn Difficult Concepts with the Adept Method",
+      "updated_at": "2024-02-04T05:40:50Z",
+      "url": "https://betterexplained.com/articles/adept-method/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "secondary_op"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "US unleashes strikes across Middle East: live updates"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.rt.com/news/591739-us-retaliation-strikes-updates/"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_secondary_op",
+        "story_39247790"
+      ],
+      "author": "secondary_op",
+      "children": [
+        39247851
+      ],
+      "created_at": "2024-02-04T05:09:43Z",
+      "created_at_i": 1707023383,
+      "num_comments": 1,
+      "objectID": "39247790",
+      "points": 1,
+      "story_id": 39247790,
+      "title": "US unleashes strikes across Middle East: live updates",
+      "updated_at": "2024-02-04T06:04:50Z",
+      "url": "https://www.rt.com/news/591739-us-retaliation-strikes-updates/"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sargstuff"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Difference between pitch, tone, note [video]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=HEEU_IXEOdY"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sargstuff",
+        "story_39247783"
+      ],
+      "author": "sargstuff",
+      "created_at": "2024-02-04T05:07:08Z",
+      "created_at_i": 1707023228,
+      "num_comments": 0,
+      "objectID": "39247783",
+      "points": 1,
+      "story_id": 39247783,
+      "title": "Difference between pitch, tone, note [video]",
+      "updated_at": "2024-02-04T05:10:20Z",
+      "url": "https://www.youtube.com/watch?v=HEEU_IXEOdY"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "secondary_op"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Julian Assange on Google Being 'In Bed' with the State Department, and War Logs"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://rumble.com/v47y768-julian-assange-on-the-iraq-and-afghan-war-logs-google-being-in-bed-with-the.html"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_secondary_op",
+        "story_39247779"
+      ],
+      "author": "secondary_op",
+      "created_at": "2024-02-04T05:06:34Z",
+      "created_at_i": 1707023194,
+      "num_comments": 0,
+      "objectID": "39247779",
+      "points": 1,
+      "story_id": 39247779,
+      "title": "Julian Assange on Google Being 'In Bed' with the State Department, and War Logs",
+      "updated_at": "2024-02-04T05:10:20Z",
+      "url": "https://rumble.com/v47y768-julian-assange-on-the-iraq-and-afghan-war-logs-google-being-in-bed-with-the.html"
+    },
+    {
+      "_highlightResult": {
+        "author": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "sargstuff"
+        },
+        "title": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "Composers must learn the overtone series [video]"
+        },
+        "url": {
+          "matchLevel": "none",
+          "matchedWords": [],
+          "value": "https://www.youtube.com/watch?v=NFo2AXf78xk"
+        }
+      },
+      "_tags": [
+        "story",
+        "author_sargstuff",
+        "story_39247775"
+      ],
+      "author": "sargstuff",
+      "created_at": "2024-02-04T05:05:13Z",
+      "created_at_i": 1707023113,
+      "num_comments": 0,
+      "objectID": "39247775",
+      "points": 1,
+      "story_id": 39247775,
+      "title": "Composers must learn the overtone series [video]",
+      "updated_at": "2024-02-04T05:10:20Z",
+      "url": "https://www.youtube.com/watch?v=NFo2AXf78xk"
+    }
+  ],
+  "hitsPerPage": 20,
+  "nbHits": 2899869,
+  "nbPages": 50,
+  "page": 0,
+  "params": "tags=story&advancedSyntax=true&analyticsTags=backend",
+  "processingTimeMS": 6,
+  "processingTimingsMS": {
+    "_request": {
+      "roundTrip": 19
+    },
+    "getIdx": {
+      "load": {
+        "dicts": 2,
+        "gens": 1,
+        "total": 4
+      },
+      "total": 4
+    },
+    "total": 6
+  },
+  "query": "",
+  "serverTimeMS": 6
+}

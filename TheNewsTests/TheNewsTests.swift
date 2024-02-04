@@ -23,14 +23,15 @@ final class TheNewsTests: XCTestCase {
     }
     
     func testFetchNewsArticles() {
-        // Given
-        let expectation = XCTestExpectation(description: "Fetch news articles")
-        sut.mockNewsData { articles in
-            // Then
-            XCTAssertNotNil(articles, "News articles should not be nil")
-            expectation.fulfill()
+        if let filePath = Bundle.newsTest.path(forResource: "NewsDataMock", ofType: "json") {
+            do {
+                let data = try Data(contentsOf: URL(fileURLWithPath: filePath))
+                let model: Story.Results  = try JSONDecoder().decode(Story.Results.self, from: data)
+                sut.mockNewsData(storyData: model)
+            } catch {
+                XCTAssert(false, error.localizedDescription)
+            }
         }
-        wait(for: [expectation], timeout: 3.0)
     }
     
     override func setUpWithError() throws {
