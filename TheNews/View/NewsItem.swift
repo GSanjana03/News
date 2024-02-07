@@ -15,6 +15,7 @@ struct NewsItem: View {
         HStack {
             VStack(alignment: .leading) {
                 Spacer()
+                
                 Text(story.title)
                     .font(.headline)
                 Spacer()

@@ -29,8 +29,28 @@ class NewsViewModel: ObservableObject {
             }
         }
     }
-    
+
     func mockNewsData(storyData: Story.Results) {
         self.latestStories = storyData.hits
+    }
+    
+    func fetchNewsArticles(success: @escaping ([Story]) -> Void, responseFailure: @escaping (Error) -> Void) {
+        let url = "\(Constants.baseURL)/search_by_date?tags=story"
+        AF.request(url).responseDecodable(of: Story.Results.self) { response in
+            switch response.result {
+            case .success(let data):
+                success(data.hits)
+            case .failure(let error):
+                responseFailure(error)
+            }
+        }
+    }
+  
+    func isEmptyTitle(title: String) -> Bool {
+        return !title.isEmpty
+    }
+    
+    func isEmptyUrl(url: String) -> Bool {
+        return !url.isEmpty
     }
 }

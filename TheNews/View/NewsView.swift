@@ -20,15 +20,18 @@ struct NewsView: View {
            
             ZStack {
                 Color.white.ignoresSafeArea()
-                
+             
                 if stories != nil {
                     List(stories ?? []) { story in
-                        if story.url != nil {
+                        if newsViewModel.isEmptyUrl(url: story.url ?? ""){
                             NavigationLink(destination: NewsDetailView(story.url)) {
-                                NewsItem(story: story)
+                                if newsViewModel.isEmptyTitle(title: story.title){
+                                    NewsItem(story: story)
+                                }
                             }
                         }
-                    }.navigationTitle(Constants.appName)
+                    }
+                    .navigationTitle(Constants.appName)
                         .refreshable {
                             newsViewModel.fetchStories()
                         }

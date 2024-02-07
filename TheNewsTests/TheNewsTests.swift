@@ -34,6 +34,35 @@ final class TheNewsTests: XCTestCase {
         }
     }
     
+    func testFetchNewsNetworkError() {
+        var errorMessage: String = "URLSessionTask failed with error: The Internet connection appears to be offline."
+        sut.fetchNewsArticles { articles in
+            XCTFail("fetchNews should not be called in case of network error")
+        } responseFailure: { (error) in
+            errorMessage = error.localizedDescription
+        }
+             
+        // Then
+        XCTAssertEqual(errorMessage, "URLSessionTask failed with error: The Internet connection appears to be offline.", "Error message should match expected message")
+     }
+    
+    func testEmptyTitle() {
+        // Given
+        let emptyTitle = ""
+        let isEmpty = NewsViewModel().isEmptyTitle(title: emptyTitle)
+        
+        // Then
+        XCTAssertFalse(isEmpty, "Title should not be empty")
+    }
+    
+    func testEmptyUrl() {
+        let emptyUrl = ""
+        
+        let isValid = NewsViewModel().isEmptyUrl(url: emptyUrl)
+        
+        XCTAssertFalse(isValid, "Url should not be empty")
+    }
+    
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
@@ -58,3 +87,5 @@ final class TheNewsTests: XCTestCase {
     }
 
 }
+
+
